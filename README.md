@@ -1,4 +1,4 @@
-# Spring and Hibernate for Beginners (Includes Spring Boot)
+# Spring and Hibernate (Includes Spring Boot)
 
 Source code for the course: [Spring and Hibernate (Includes Spring Boot)](http://www.luv2code.com/spring-github)
 
